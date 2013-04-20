@@ -1,0 +1,13 @@
+{
+  "name": "Uehara Tetris Modoki",
+  "description": "Uehara Tetrisもどき作ったった",
+  "launch_path": "/index.html",
+  "icons": {
+    "128": "/icon-128.png"
+  },
+  "developer": {
+    "name": "Maxi Gundan",
+    "url": "http://maxigundan.hatenablog.jp/"
+  },
+  "default_locale": "ja"
+}
